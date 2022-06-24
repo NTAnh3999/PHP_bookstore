@@ -1,5 +1,7 @@
 # PHP_bookstore
-## Công nghệ sử dụng: HTML, CSS, bootstrap 4, PHP, Mysql
+## Công nghệ sử dụng
+* Frontend: HTML, CSS, Bootstrap 4 và Template đã được xây dựng
+* Backend: PHP, Mysql 
 ## Các chức năng chính
 * Thêm, sửa, xóa dữ liệu ở các bảng trong CSDL
 * Phân trang
